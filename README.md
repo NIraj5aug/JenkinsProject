@@ -1,6 +1,4 @@
-# JenkinsProject
-Jenkins Project
-cal
-touch file2
-cal > file2
-date
+yum install -y httpd
+service jenkins status
+service httpd status
+service httpd start
