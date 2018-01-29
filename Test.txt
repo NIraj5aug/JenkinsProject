@@ -1,0 +1,6 @@
+This is services need to be installed
+
+Httpd
+jenkins
+git
+
